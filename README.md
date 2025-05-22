@@ -1,1 +1,1 @@
-The html and css code is to showcase my portfolio to potential employers
+Welcome to my github portfolio, I am a tech enthusiast with certifications in cyber security and cloud. I enjoy hands on virtual labs customising virtual machines and investigating tech problems. 

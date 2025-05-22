@@ -1,1 +1,4 @@
 Welcome to my github portfolio, I am a tech enthusiast with certifications in cyber security and cloud. I enjoy hands on virtual labs customising virtual machines and investigating tech problems. 
+I have experience of AWS cloud computing, main tasks include configuring ec2 instances, security groups, monitoring via cloud watch and cloud trail. Cisco experience using Packet Tracer - setting up simulated networks, observing packets as they travel from source to destination.
+Set up different virtual machines on Virtual Box - Windows 10 Pro, Kali Linux, Ubuntu, Windows Server 2016 with Server Manager, Security Onion for cyber security investigation using Elastic Logstash Kibana.
+Challenges - I had to enable virtualisaiton within the host machine BIOS, so I could run virtual machines. Had to apply thermal paste to host machine after overheating issue, then reinstall Windows by setting up a bootable USB drive.
